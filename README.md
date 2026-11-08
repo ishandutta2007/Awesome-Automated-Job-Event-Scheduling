@@ -55,7 +55,7 @@ The global workload scheduling and automation (WLA / SOAP) market is valued betw
 
 Ranked by GitHub popularity and community adoption:
 
-| Project | Stars ⭐ | Language 💻 | Key Architectural Highlights ⚡ |
+| Project | GitHub_Stars ⭐ | Language 💻 | Key Architectural Highlights ⚡ |
 |---|---|---|---|
 | **[Apache Airflow](https://github.com/apache/airflow)** [![Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | ~47.4k | Python | Industry-standard distributed workflow authoring platform. Programmatic DAG definitions in pure Python, extensive plugin ecosystem, and deep data stack integrations. |
 | **[Kestra](https://github.com/kestra-io/kestra)** [![Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=social&color=white)](https://github.com/kestra-io/kestra/stargazers) | ~30.0k | Java | Infinitely scalable event-driven orchestrator. Declarative YAML workflows with embedded code runners (Python, Node, Bash, SQL, Docker) and real-time UI. |
